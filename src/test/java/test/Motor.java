@@ -2,7 +2,7 @@ package test;
 public class Motor {
 	int numeroCilindros;
 	String tipo;
-	public int registro;
+	int registro;
 	
 	void cambiarRegistro(int registro) {
 		this.registro = registro;
